@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "965473708260",
+    "project_id": "doubledatabasereadandsave",
+    "storage_bucket": "doubledatabasereadandsave.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965473708260:android:a86d929fb38a7e399ee4f1",
+        "android_client_info": {
+          "package_name": "com.example.doubledatabasereadandsave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965473708260-0kesgllb7hd6j9s2rtgiljks0bbcnedr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doubledatabasereadandsave",
+            "certificate_hash": "ce293a87abf384b96c441aedb49cee53b2511cf0"
+          }
+        },
+        {
+          "client_id": "965473708260-tupncg9lcfo03q80fl693odhvl763g73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB598VpX9htJXJoIx32BmSNVVA5_SWvyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965473708260-tupncg9lcfo03q80fl693odhvl763g73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
